@@ -19,6 +19,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 💓 GROUP LINK : https://bit.ly/3Heg6PY
 
+💗BOMB SQUAD LINK :https://chat.whatsapp.com/L8uN5dFmCm2GB9YDAT9zsI
+
 💓 AND THANKS TO MY  COLLABORATORS 🥰
 
 💖THANKS TO SUPPORT 😊🥰
