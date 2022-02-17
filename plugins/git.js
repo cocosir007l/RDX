@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 💖GIT LINK : https://github.com/cocosir007l/RDX
 
-💓 GROUP LINK : https://bit.ly/3Heg6PY
+💓BOT GROUP LINK : https://chat.whatsapp.com/ClIuinq4YYl9fsB7WxbqGm
 
 💗BOMB SQUAD LINK :https://chat.whatsapp.com/L8uN5dFmCm2GB9YDAT9zsI
 
