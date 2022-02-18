@@ -3,7 +3,7 @@
 
   ### TOTAL REPO VIEWS♦
 
-![Visitor Count](https://profile-counter.glitch.me/KINGS-AS/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/cocosir007l/count.svg)
   
 ### TOTAL WEBSITE VISIT🌐
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rdx-whtsapp-bot-website.yolasite.com/&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://rdx-whtsapp-bot-website.yolasite.com/)
@@ -23,9 +23,9 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/KINGS-AS/RDX/fork)
+ Click [FORK](https://github.com/cocosir007l/RDX/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/cocosir007l/RDX copy this url and change cocosir007l with your github username and click go<br>
 
 
 6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
